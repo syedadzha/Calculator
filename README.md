@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+npm run serve
 ```
 
 ### Customize configuration
